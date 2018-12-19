@@ -6,12 +6,12 @@
 #
 Pod:: Spec.new do |s|
   s.name                  = 'HZUMShareSDK'
-  s.version               = '0.0.5'
+  s.version               = '0.0.6'
   s.summary               = 'A short description of HZUMShareSDK.'
   s.license               = 'MIT'
   s.homepage              = 'https://github.com/CoderZZHe'
   s.author                = { 'Hezhizhi' => 'coderhzz@163.com' }
-  s.source                = { :http  => 'http://pjpumolh9.bkt.clouddn.com/HZUMShareSDK_0.0.5.zip' }
+  s.source                = { :http  => 'http://pjpumolh9.bkt.clouddn.com/HZUMShareSDK_0.0.6.zip' }
   s.ios.deployment_target = '9.0'
 
   puts '-------------------------------------------------------------------'

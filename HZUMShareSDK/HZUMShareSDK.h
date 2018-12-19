@@ -17,3 +17,5 @@ FOUNDATION_EXPORT const unsigned char HZUMShareSDKVersionString[];
 // In this header, you should import all the public headers of your framework using statements like #import <HZUMShareSDK/PublicHeader.h>
 
 
+#import <UMShare/UMShare.h>
+#import <UMCommon/UMCommon.h>

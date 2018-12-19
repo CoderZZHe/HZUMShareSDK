@@ -1,6 +1,0 @@
-framework module HZUMShareSDK {
-  umbrella header "HZUMShareSDK.h"
-
-  export *
-  module * { export * }
-}

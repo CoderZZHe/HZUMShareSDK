@@ -8,12 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		5347321B21CA2465009E2D39 /* HZUMShareSDK.h in Headers */ = {isa = PBXBuildFile; fileRef = 5347321921CA2465009E2D39 /* HZUMShareSDK.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		5347322A21CA2545009E2D39 /* UMSocialQQHandler.h in Headers */ = {isa = PBXBuildFile; fileRef = 5347322221CA2544009E2D39 /* UMSocialQQHandler.h */; };
+		5347322A21CA2545009E2D39 /* UMSocialQQHandler.h in Headers */ = {isa = PBXBuildFile; fileRef = 5347322221CA2544009E2D39 /* UMSocialQQHandler.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5347322B21CA2545009E2D39 /* libSocialQQ.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5347322321CA2544009E2D39 /* libSocialQQ.a */; };
 		5347322C21CA2545009E2D39 /* libSocialSina.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5347322521CA2544009E2D39 /* libSocialSina.a */; };
-		5347322D21CA2545009E2D39 /* UMSocialSinaHandler.h in Headers */ = {isa = PBXBuildFile; fileRef = 5347322621CA2544009E2D39 /* UMSocialSinaHandler.h */; };
+		5347322D21CA2545009E2D39 /* UMSocialSinaHandler.h in Headers */ = {isa = PBXBuildFile; fileRef = 5347322621CA2544009E2D39 /* UMSocialSinaHandler.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5347322E21CA2545009E2D39 /* libSocialWeChat.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5347322821CA2545009E2D39 /* libSocialWeChat.a */; };
-		5347322F21CA2545009E2D39 /* UMSocialWechatHandler.h in Headers */ = {isa = PBXBuildFile; fileRef = 5347322921CA2545009E2D39 /* UMSocialWechatHandler.h */; };
+		5347322F21CA2545009E2D39 /* UMSocialWechatHandler.h in Headers */ = {isa = PBXBuildFile; fileRef = 5347322921CA2545009E2D39 /* UMSocialWechatHandler.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5347323221CA2792009E2D39 /* libsqlite3.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 5347323121CA2792009E2D39 /* libsqlite3.tbd */; };
 		5347323421CA279B009E2D39 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5347323321CA279B009E2D39 /* CoreGraphics.framework */; };
 		5347323621CA27A4009E2D39 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5347323521CA27A4009E2D39 /* SystemConfiguration.framework */; };
