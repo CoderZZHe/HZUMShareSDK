@@ -1,0 +1,6 @@
+framework module Pods_HZUMShareSDK {
+  umbrella header "Pods-HZUMShareSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
