@@ -6,7 +6,7 @@
 #
 Pod:: Spec.new do |s|
   s.name                  = 'HZUMShareSDK'
-  s.version               = '0.0.6'
+  s.version               = '0.0.7'
   s.summary               = 'A short description of HZUMShareSDK.'
   s.license               = 'MIT'
   s.homepage              = 'https://github.com/CoderZZHe'
